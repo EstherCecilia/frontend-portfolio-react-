@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/90933035/235384639-667f0517-7463-4c0f-99e6-735aabaffcad.png)
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
